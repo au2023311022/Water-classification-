@@ -1,2 +1,2 @@
-# Water-classification-
+# Water-safety-classification-
 Water quality 
